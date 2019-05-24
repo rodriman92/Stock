@@ -1,0 +1,75 @@
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\ControlStock.exe.config
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\ControlStock.exe
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\ControlStock.pdb
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\itextsharp.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.Design.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.Fonts.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\netbarcontrol.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Release\itextsharp.xml
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.AcercaDe.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCategoriaAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCategorias.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmClientesAE2.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCompraAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCompras.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmGastos.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmLogin.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMain.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMarcaAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMarcas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProductos.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProductosAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProveedores.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProveedoresAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmRankingVentas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmRecaudacion.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmVentas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmPrincipal.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.Properties.Resources.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.GenerateResource.cache
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.CoreCompileInputs.cache
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.CopyComplete
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.exe
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Release\ControlStock.pdb
+D:\Projects\ControlStock\ControlStock\bin\Release\ControlStock.exe.config
+D:\Projects\ControlStock\ControlStock\bin\Release\ControlStock.exe
+D:\Projects\ControlStock\ControlStock\bin\Release\ControlStock.pdb
+D:\Projects\ControlStock\ControlStock\bin\Release\itextsharp.dll
+D:\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.Design.dll
+D:\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.dll
+D:\Projects\ControlStock\ControlStock\bin\Release\MetroFramework.Fonts.dll
+D:\Projects\ControlStock\ControlStock\bin\Release\itextsharp.xml
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csprojAssemblyReference.cache
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.AcercaDe.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCategoriaAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCategorias.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmClientesAE2.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCompraAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmCompras.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmGastos.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmLogin.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMain.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMarcaAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmMarcas.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProductos.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProductosAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProveedores.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmProveedoresAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmRankingVentas.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmRecaudacion.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmVentas.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmPrincipal.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.Properties.Resources.resources
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.GenerateResource.cache
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.CoreCompileInputs.cache
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.csproj.CopyComplete
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.exe
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.pdb
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.GUI.frmBuscarVtaFecha.resources
+D:\Projects\ControlStock\ControlStock\bin\Release\ControlStock.exe.manifest
+D:\Projects\ControlStock\ControlStock\bin\Release\ControlStock.application
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.exe.manifest
+D:\Projects\ControlStock\ControlStock\obj\Release\ControlStock.application

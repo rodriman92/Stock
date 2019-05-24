@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="ControlStock.Properties.Settings.ControlStockConnectionString"
+            connectionString="Data Source=192.168.141.1,1433\SQLEXPRESS;Initial Catalog=ControlStock;User Id=sa; Password=admin1234; Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1"/></startup>
+</configuration>

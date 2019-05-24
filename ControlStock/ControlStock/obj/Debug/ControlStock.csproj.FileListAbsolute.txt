@@ -1,0 +1,170 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.AcercaDe.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategoriaAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategorias.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompraAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompras.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmGastos.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMain.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcaAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcas.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductos.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductosAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedores.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedoresAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRankingVentas.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRecaudacion.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentas.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentasAE.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmPrincipal.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.dll
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.xml
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.AcercaDe.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategoriaAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategorias.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompraAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompras.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmGastos.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMain.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcaAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcas.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductos.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductosAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedores.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedoresAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRankingVentas.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRecaudacion.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentas.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentasAE.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmPrincipal.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.Cache
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Design.dll
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.dll
+E:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Fonts.dll
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.AcercaDe.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategoriaAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategorias.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompraAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompras.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmGastos.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMain.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcaAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcas.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductos.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductosAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedores.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedoresAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRankingVentas.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRecaudacion.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentas.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentasAE.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmPrincipal.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.Cache
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csprojResolveAssemblyReference.cache
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CoreCompileInputs.cache
+E:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CopyComplete
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Design.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Fonts.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\netbarcontrol.dll
+D:\Mi Backup\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.xml
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.AcercaDe.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategoriaAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategorias.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmClientesAE2.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompraAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompras.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmGastos.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmLogin.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMain.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcaAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductos.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductosAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedores.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedoresAE.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRankingVentas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRecaudacion.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentas.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmPrincipal.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.cache
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CoreCompileInputs.cache
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CopyComplete
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+D:\Mi Backup\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csprojAssemblyReference.cache
+D:\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+D:\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+D:\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+D:\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.dll
+D:\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Design.dll
+D:\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.dll
+D:\Projects\ControlStock\ControlStock\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\ControlStock\ControlStock\bin\Debug\itextsharp.xml
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csprojAssemblyReference.cache
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.AcercaDe.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarPorCodigoBarra.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmBuscarVtaFecha.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategoriaAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCategorias.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmClientesAE2.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompraAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmCompras.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmGastos.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmLogin.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMain.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcaAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmMarcas.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductos.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProductosAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedores.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmProveedoresAE.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRankingVentas.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmRecaudacion.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmVentas.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.GUI.frmPrincipal.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.cache
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CoreCompileInputs.cache
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CopyComplete
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+D:\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.exe.manifest
+D:\Projects\ControlStock\ControlStock\bin\Debug\ControlStock.application
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.exe.manifest
+D:\Projects\ControlStock\ControlStock\obj\Debug\ControlStock.application
